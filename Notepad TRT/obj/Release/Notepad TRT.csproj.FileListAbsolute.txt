@@ -1,0 +1,9 @@
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\bin\Release\Notepad TRT.exe.config
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\bin\Release\Notepad TRT.exe
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\bin\Release\Notepad TRT.pdb
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\obj\Release\Notepad_TRT.Notepad.resources
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\obj\Release\Notepad_TRT.Properties.Resources.resources
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\obj\Release\Notepad TRT.csproj.GenerateResource.Cache
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\obj\Release\Notepad TRT.exe
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\obj\Release\Notepad TRT.pdb
+d:\sravan\documents\visual studio 2012\Projects\Notepad TRT\Notepad TRT\obj\Release\Notepad TRT.csprojResolveAssemblyReference.cache
